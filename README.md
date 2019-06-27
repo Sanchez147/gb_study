@@ -1,2 +1,2 @@
 # gb_study
-Учебнвй репозиторий Geek Brains
+Учебный репозиторий Geek Brains
